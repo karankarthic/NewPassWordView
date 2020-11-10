@@ -1,0 +1,16 @@
+PODS:
+  - PassCode (1.0.9)
+
+DEPENDENCIES:
+  - PassCode (= 1.0.9)
+
+SPEC REPOS:
+  trunk:
+    - PassCode
+
+SPEC CHECKSUMS:
+  PassCode: 8e4d585b6bee7db38b3e7cc3bdaaad1f75a46a0c
+
+PODFILE CHECKSUM: 35f9fc571ae0612486f4af9a4d0ee66cc3787f68
+
+COCOAPODS: 1.10.0
